@@ -1,0 +1,1 @@
+[{"id":1,"name":"Luxury","price":120,"parent_id":-1},{"id":2,"name":"Standard","price":60,"parent_id":-1},{"id":3,"name":"Sedan","price":20,"parent_id":2},{"id":4,"name":"Sedan","price":80,"parent_id":1}]

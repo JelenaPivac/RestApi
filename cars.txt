@@ -1,0 +1,1 @@
+[{"id":0,"registration_license":"T5S2319","brand":"Toyota","model":"Corolla","manufacture_date":2020,"description":"No description","category_id":3,"properties":{}},{"id":1,"registration_license":"CKsda231","brand":"Ford","model":"Focus","manufacture_date":2010,"description":"No description","category_id":4,"properties":{}}]

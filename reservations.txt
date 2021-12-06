@@ -1,0 +1,1 @@
+[{"car":{"id":1,"registration_license":"CKsda231","brand":"Ford","model":"Focus","manufacture_date":2010,"description":"No description","category_id":4,"properties":{}},"dateStart":"2021-3-17","dateEnd":"2021-3-21"}]
